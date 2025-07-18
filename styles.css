@@ -12,6 +12,12 @@ form {
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
       width: 350px;
     }
+#submit{
+  background-color:black;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
 #submit:hover {
       background-color: #0056b3;
     }
